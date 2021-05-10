@@ -1,0 +1,11 @@
+#picture {
+    height: 500px;
+    width: 400px;
+    border-style: groove;
+    border-color: chocolate;
+}
+
+body {
+    background-image: linear-gradient(#6B962D, #53C9BE, #5349B8, #CFB4CB, #CC1619);
+}
+
